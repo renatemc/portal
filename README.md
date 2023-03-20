@@ -1,4 +1,4 @@
-<h1 align="center">MineTrax</h1>
+<h1 align="center">MineTrax | #support the author! You may find his repo at https://github.com/MineTrax/minetrax</h1>
 <p align="center"><b>Beautiful & Rich Web & Analytics Suite for Minecraft Servers!</b></p>
 <p align="center"><a href="https://minetrax.github.io">https://minetrax.github.io</a></p>
 
